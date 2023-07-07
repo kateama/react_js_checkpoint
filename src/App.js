@@ -13,17 +13,13 @@ function App() {
         <Heading />
         <br />
         <br />
-        <section className="cardsec">
-          <div className="cards">
+       
             <Cards />
-          </div>
-          <div className="cards">
+          
             <Cards />
-          </div>
-          <div className="cards">
+        
             <Cards />
-          </div>
-        </section>
+         
 
         <br />
       </div>
