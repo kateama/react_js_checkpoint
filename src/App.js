@@ -2,7 +2,7 @@ import React, { Fragment } from "react";
 import Navpath from "./Component/Navpath";
 import Cards from "./Component/Cards";
 import Heading from "./Component/Heading";
-import "./App.css";
+
 
 function App() {
   return (
